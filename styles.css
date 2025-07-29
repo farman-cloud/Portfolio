@@ -66,6 +66,13 @@ p {
   color: #555;
 }
 
+.image {
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .projects-section {
   background-color: #f9f9f9;
 }
@@ -96,7 +103,6 @@ p {
 .contact-links a:hover {
   color: #0077b5; /* LinkedIn blue or any accent color */
 }
-
 
 footer {
   background-color: #222;
